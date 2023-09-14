@@ -1,5 +1,5 @@
 # shopping-cart-test
 
-~~~ IN WORK ~~~
+ IN WORK 
 
 Shopping-Cart-Dummy for Online-Shop
